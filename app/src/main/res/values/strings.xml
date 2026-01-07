@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ToughpadSimpleBarcodeReaderDemo</string>
     <string name="action_settings">Settings</string>
+    <string name="action_device_info">Device Info</string>
 
     <string name="hint_text">Read bar-codes!</string>
     <string name="barcode_reader_available_device_name">AvailableDevice:%s</string>
